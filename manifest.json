@@ -1,0 +1,17 @@
+{
+    "name": "Genius University",
+    "short_name": "Genius",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/bg_4.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        }
+    ]
+}
